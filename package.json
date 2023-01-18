@@ -14,7 +14,6 @@
   "dependencies": {
     "@vueuse/core": "^9.11.0",
     "@vueuse/nuxt": "^9.11.0",
-    "corepack": "^0.15.3",
-    "pnpm": "^7.25.0"
+    "corepack": "^0.15.3"
   }
 }
